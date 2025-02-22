@@ -1,5 +1,6 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
 ## Artificial Intelligence
+ #### A technology that uses algorithm to mimic human intelligence and perform tasks
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
 ### Perceptron
