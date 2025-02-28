@@ -3,3 +3,4 @@ To add image -> eg : ![Google](www.google.com)
 iNSTALL python libraries -> ## pip install library name
 To see installed libraries->  ## pip freeze 
 To  create requirement file which will shows all the installed libraries which we can share to team member - > ## pip freeze>requirements.txt
+## which python  - to test which python library is selected
